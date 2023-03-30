@@ -59,7 +59,7 @@
     
   
     var typed = new Typed(".auto-input",{
-        strings: ["Web Development"],
+        strings: ["Software Developer","Interested in Web Dev","Passionate about coding"],
         typeSpeed: 100,
         backSpeed: 100,
         loop:true
